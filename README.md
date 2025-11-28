@@ -1,6 +1,6 @@
 # 🚗 Autonomous Vehicle Perception System (YOLOv8)
 
-![](./3.png)
+![](./3.jpg)
 
 ## 📌 Project Overview
 
