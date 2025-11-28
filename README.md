@@ -41,11 +41,3 @@ As a Mechanical Engineer transitioning to AI, I focused on the **deployment** as
 While PyTorch (`.pt`) weights are excellent for training, they are heavy and require a Python environment. By exporting to **ONNX**, this perception system becomes portable. It can now be integrated into a **C++** application running on an automotive ECU or optimized further using **NVIDIA TensorRT** for maximum frame rate on embedded hardware.
 
 -----
-
-### 📝 Resume Bullet Points for this Project
-
-*Add these to your resume to bridge the gap between ME and Autonomous Systems:*
-
-  * **Designed a Perception System for Autonomous Vehicles** using **YOLOv8**, achieving real-time detection of traffic signs, pedestrians, and vehicles for ADAS applications.
-  * **Implemented Edge-AI Workflows** by exporting trained PyTorch models to **ONNX format**, optimizing the neural network for deployment on embedded automotive hardware (e.g., NVIDIA Jetson).
-  * **Managed Data Pipelines** using the Roboflow API to curate and preprocess multi-class datasets, ensuring robust model performance across diverse road environments.
